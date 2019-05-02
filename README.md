@@ -17,7 +17,7 @@ Example extension created here is the one explained in [CKAN Docs - Creating ext
 
 #### Conclusion
 
-Only users which are in the group **org-mods** can create new group.
+Only users which are in the group **org-mods** can create new organization.
 
  
 ## Template part
